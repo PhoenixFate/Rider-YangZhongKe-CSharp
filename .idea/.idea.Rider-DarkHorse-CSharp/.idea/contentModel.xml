@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\phoenix\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\phoenix\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Rider-DarkHorse-CSharp.1729796552.00" t="ExcludeRecursive" />
+    <e p="C:\Users\phoenix\RiderProjects\Rider-DarkHorse-CSharp" t="IncludeFlat">
+      <e p="Foundation-01-FirstApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Foundation-01-FirstApp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Foundation-01-FirstApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Person.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Rider-DarkHorse-CSharp.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
