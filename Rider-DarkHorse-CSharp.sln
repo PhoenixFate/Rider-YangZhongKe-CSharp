@@ -1,8 +1,8 @@
-﻿
+﻿﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-01-FirstApp", "Foundation-01-FirstApp\Foundation-01-FirstApp.csproj", "{DB7DC137-EE9F-43BA-B002-CB564628DD07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-02-Enum", "Foundation-02-Enum\Foundation-02-Enum.csproj", "{98F8C758-BE60-4A4D-8FA3-E07EB9DCD90E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-02-Function", "Foundation-02-Function\Foundation-02-Function.csproj", "{98F8C758-BE60-4A4D-8FA3-E07EB9DCD90E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-03-String", "Foundation-03-String\Foundation-03-String.csproj", "{E168F05B-0591-4B73-BD35-9FCCBD9C9C78}"
 EndProject
