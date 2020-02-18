@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Foundation_02_Enum
+namespace Foundation_02_Function
 {
     //枚举的意义在于限定 变量的取值范围
     enum Gender { Male, Female, Unknown }
