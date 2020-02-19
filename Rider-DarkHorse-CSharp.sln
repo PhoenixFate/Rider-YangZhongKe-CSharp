@@ -1,5 +1,4 @@
-﻿﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-01-FirstApp", "Foundation-01-FirstApp\Foundation-01-FirstApp.csproj", "{DB7DC137-EE9F-43BA-B002-CB564628DD07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-02-Function", "Foundation-02-Function\Foundation-02-Function.csproj", "{98F8C758-BE60-4A4D-8FA3-E07EB9DCD90E}"
@@ -7,6 +6,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-03-String", "Foundation-03-String\Foundation-03-String.csproj", "{E168F05B-0591-4B73-BD35-9FCCBD9C9C78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation-04-RefOut", "Foundation-04-RefOut\Foundation-04-RefOut.csproj", "{777C41AF-26F7-4E5A-AA0A-7BA5CF6993BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-01-Class", "Object-01-Class\Object-01-Class.csproj", "{B0EA3300-33A5-4A8B-8E4D-1671CEBD2398}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +31,9 @@ Global
 		{777C41AF-26F7-4E5A-AA0A-7BA5CF6993BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{777C41AF-26F7-4E5A-AA0A-7BA5CF6993BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{777C41AF-26F7-4E5A-AA0A-7BA5CF6993BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EA3300-33A5-4A8B-8E4D-1671CEBD2398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EA3300-33A5-4A8B-8E4D-1671CEBD2398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EA3300-33A5-4A8B-8E4D-1671CEBD2398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EA3300-33A5-4A8B-8E4D-1671CEBD2398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
