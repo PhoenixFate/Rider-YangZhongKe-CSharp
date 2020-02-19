@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-03-Exception", "Obje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-04-Namespace", "Object-04-Namespace\Object-04-Namespace.csproj", "{C57491FD-280C-4EAB-8A53-7848A266A99A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-05-Index", "Object-05-Index\Object-05-Index.csproj", "{241DE620-780F-4D75-BD4F-4B9CE3FD6920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,9 @@ Global
 		{C57491FD-280C-4EAB-8A53-7848A266A99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C57491FD-280C-4EAB-8A53-7848A266A99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C57491FD-280C-4EAB-8A53-7848A266A99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241DE620-780F-4D75-BD4F-4B9CE3FD6920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241DE620-780F-4D75-BD4F-4B9CE3FD6920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241DE620-780F-4D75-BD4F-4B9CE3FD6920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241DE620-780F-4D75-BD4F-4B9CE3FD6920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
