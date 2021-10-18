@@ -1,0 +1,3 @@
+透明|123|30
+lucy|abc|25
+lebron|aaa|40
