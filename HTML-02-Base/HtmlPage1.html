@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body bgcolor="yellow">
+<!-- visual studio 提示符快捷键ctrl+j -->
+<a href="#" name="top">顶部锚点</a><br />
+<!-- 注释的写法 -->
+<img src="Images/trump.jpg" alt="Alternate Text" />
+<br />
+<font color="red">aaa</font>
+<br />
+<span>多个空格                           会自动折叠</span><br />
+<span>& nbsp ;表示空格&nbsp;</span><br />
+<span>转移: &lt;&gt;</span><br />
+<pre>
+        包含格式
+            啊数据的反馈了
+                    撒娇的flak飒飒扩大飞机
+       asbc                 asdjflk
+    </pre>
+<p>p标签是带行高、行距的</p>
+<a href="#" target="_blank">在新页面打开</a><br />
+<span>为超链接设置锚点</span><br />
+<span>列表</span>
+<span>无序列表</span>
+<ul>
+    <li>ABC</li>
+    <li>MMM</li>
+</ul>
+<span>有序列表</span>
+<ol>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+    <li>d</li>
+</ol>
+<span>表格table</span>
+<table border="1">
+    <thead>
+    <tr>
+        <td>姓名</td>
+        <td>职称</td>
+        <td>编号</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr align="center">
+        <td>a</td>
+        <td align="left">8</td>
+        <td>sdf</td>
+    </tr>
+    <tr>
+        <td>a</td>
+        <td>8</td>
+        <td rowspan="2">行合并</td>
+    </tr>
+    <tr>
+        <td>a</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>a</td>
+        <td colspan="2">单元格合并aaa</td>
+    </tr>
+    </tbody>
+</table>
+<span>表单form</span>
+<form action="#" method="post">
+    <!-- value为输入框的默认值或者按钮的显示的名字 -->
+    <span>姓名</span> <input type="text" name="name" value="" /> <br />
+    <span>密码</span><input type="password" name="password" value="" /> <br />
+    <span>复选框</span><input type="checkbox" name="myCheckBox" value="" checked="checked" /><span>萨克到付即可</span> <br />
+    <input type="button" name="myButton" value="按钮" />
+    <input type="file" name="myFile" value="" /> <br />
+    <input type="radio" name="happy" value="" /><span>sdf</span><input type="radio" name="happy" value="" /><span>jj</span>
+    <span>图片按钮</span> <input type="image" name="name" value="" src="Images/boyuanchong.png" /> <br />
+    <input type="text" name="test2" value="测试" size="100" maxlength="100" /><br />
+    <span>readonly</span>
+    <input type="text" name="test2" value="测试" size="100" maxlength="100" readonly="readonly" />
+    <input type="submit" name="submit" value="提交" />
+</form>
+
+<select>
+    <option value="beijing">北京</option>
+    <option selected="selected">天津</option>
+    <option>长沙</option>
+</select>
+<br />
+
+<select size="2">
+    <option>北京</option>
+    <option>天津</option>
+    <option>长沙</option>
+</select>
+<br />
+<select name="country" size="10">
+    <optgroup label="Africa">
+        <option>xxx</option>
+        <option>xxx</option>
+        <option>xxx</option>
+    </optgroup>
+    <optgroup label="美洲">
+        <option>xxx</option>
+        <option>xxx</option>
+        <option>xxx</option>
+    </optgroup>
+    <optgroup label="亚洲">
+        <option>中国</option>
+        <option>日本</option>
+        <option>xxx</option>
+    </optgroup>
+</select>
+<br />
+<textarea rows="20" cols="200">
+        sfjaskldjalsdjf
+    </textarea>
+<br />
+
+<label for="myUsername">
+    <span>用户名:</span>
+</label>
+<input type="text" name="username" value="" id="myUsername" />
+
+<label for="myLabel">
+    <span>婚否</span>
+</label>
+<input type="checkbox" name="myLabel" value="" id="myLabel" />
+<br />
+<!-- fieldset: 将一些控件框起来 -->
+<fieldset>
+    <legend>四大皆空</legend>
+    <input type="text" />
+    <input type="text" />
+    <input type="text" />
+    <input type="text" />
+</fieldset>
+
+
+<div style="height:100px;width:100px"></div>
+<a href="#top">通过锚点返回顶部</a>
+</body>
+</html>

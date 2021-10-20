@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO-02-Login", "ADO-02-Logi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO-03-SqlHelper", "ADO-03-SqlHelper\ADO-03-SqlHelper.csproj", "{68C37044-5BC0-480A-A0C4-1ACCC2D8AC5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML-01-WebBrowser", "HTML-01-WebBrowser\HTML-01-WebBrowser.csproj", "{6D1CD6D3-35DA-409E-B227-83B041E16736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML-02-Base", "HTML-02-Base\HTML-02-Base.csproj", "{5DACE089-19D7-46C0-A2EE-F8D0DDE594C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,5 +105,13 @@ Global
 		{68C37044-5BC0-480A-A0C4-1ACCC2D8AC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68C37044-5BC0-480A-A0C4-1ACCC2D8AC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68C37044-5BC0-480A-A0C4-1ACCC2D8AC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1CD6D3-35DA-409E-B227-83B041E16736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1CD6D3-35DA-409E-B227-83B041E16736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1CD6D3-35DA-409E-B227-83B041E16736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1CD6D3-35DA-409E-B227-83B041E16736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DACE089-19D7-46C0-A2EE-F8D0DDE594C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DACE089-19D7-46C0-A2EE-F8D0DDE594C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DACE089-19D7-46C0-A2EE-F8D0DDE594C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DACE089-19D7-46C0-A2EE-F8D0DDE594C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
